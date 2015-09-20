@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JAYME</Machine>
+    <WindowsUser>James</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>853e5d6f-cd77-4ee3-84bf-f00987cf5f45</PackageIdentityName>
+    <IntermediateOutputPath>A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.exe">
+      <PackagePath>SleepyTime Stories.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\about.png">
+      <PackagePath>Images\about.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\back.png">
+      <PackagePath>Images\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedPhone1.png">
+      <PackagePath>Images\bedPhone1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedPhone2.png">
+      <PackagePath>Images\bedPhone2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedTS1.png">
+      <PackagePath>Images\bedTS1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedTS2.png">
+      <PackagePath>Images\bedTS2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedTS3.png">
+      <PackagePath>Images\bedTS3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedTS4.png">
+      <PackagePath>Images\bedTS4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\bedTS5.png">
+      <PackagePath>Images\bedTS5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\play.png">
+      <PackagePath>Images\play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\play4me.png">
+      <PackagePath>Images\play4me.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\selectStory.png">
+      <PackagePath>Images\selectStory.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\SleepyTimeCover.png">
+      <PackagePath>Images\SleepyTimeCover.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\stop.png">
+      <PackagePath>Images\stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\stories.png">
+      <PackagePath>Images\stories.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Images\Stories1.png">
+      <PackagePath>Images\Stories1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\Stories.xml">
+      <PackagePath>Stories.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryList.xbf">
+      <PackagePath>StoryList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryPage.xbf">
+      <PackagePath>StoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.xr.xml">
+      <PackagePath>SleepyTime Stories.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

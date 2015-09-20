@@ -1,0 +1,94 @@
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.xr.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.exe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.pdb
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.build.appxrecipe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\SleepyTime Stories.exe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\SleepyTime Stories.pdb
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\SleepyTime Stories\SleepyTime Stories\SleepyTime Stories\obj\Debug\ProjectArchitectures.txt
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.xr.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.exe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.pdb
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\resources.pri
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\AppxManifest.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\bin\Debug\SleepyTime Stories.build.appxrecipe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.g.i.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\XamlTypeInfo.g.cs
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\App.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\About.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryList.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\StoryPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\XamlSaveStateFile.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.xaml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\MainPage.xbf
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\SleepyTime Stories.exe
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\SleepyTime Stories.pdb
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\priconfig.xml
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\priconfig.xml.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\layout.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\layout.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\resources.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\resources.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\pri.resfiles
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\pri.resfiles.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\qualifiers.txt
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\qualifiers.txt.intermediate
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+A:\GMIT HACAKTHON APPS\SleepyTime Stories_Store\SleepyTime Stories\SleepyTime Stories\obj\Debug\ProjectArchitectures.txt
